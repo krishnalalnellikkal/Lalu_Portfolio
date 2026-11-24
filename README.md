@@ -32,4 +32,28 @@ M.Com Final Year Project
 ## Interest
 
 ## Contact Details
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:boniboban@gmail.com">boniboban@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+91) 828-985-4724</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Malappuram, Kerala</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="Boniface_Boben_SrDataAnalyst_5YOE.pdf">Download my Resume</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/boniboban">Let’s connect on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
 
